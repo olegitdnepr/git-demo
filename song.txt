@@ -2,7 +2,10 @@
 2 line
 3 line
 4 line
+<<<<<<< HEAD
 Best
 Best
 ÑÑÑÑÑÑÑÑ
 
+=======
+>>>>>>> 539b15f7ccb2d1a4cbf54ae1f9e1ee6ee1533e4f
